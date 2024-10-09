@@ -11,7 +11,7 @@
 //   variable: "--font-geist-mono",
 //   weight: "100 900",
 // });
-import NavBar from "./Navbar";
+
 import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 
